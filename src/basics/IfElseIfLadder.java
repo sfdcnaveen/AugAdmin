@@ -2,7 +2,8 @@ package basics;
 
 public class IfElseIfLadder {
     public static void main(String[] args) {
-        int marks = 75;
+        //if else if ladder example
+        int marks = 23;
         if(marks < 0){
             System.out.println("Marks should not be negative");
         }
