@@ -23,5 +23,15 @@ public class SwitchCase {
                 System.out.println("String should be case sensitive");
                 break;
         }
+        char ch = 'A';
+        switch (ch) {
+            case 'A':
+                System.out.println("char A");
+                break;
+        
+            default:
+                System.out.println("String should be case sensitive");
+                break;
+        }
     }
 }
