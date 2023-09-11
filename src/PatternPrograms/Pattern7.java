@@ -1,4 +1,4 @@
-package basics;
+package PatternPrograms;
 
 public class Pattern7 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package basics;
+package PatternPrograms;
 
 /*  rows[i]   colns[j]
  *      1       4
