@@ -1,5 +1,10 @@
 package PatternPrograms;
 
+// * * * * 
+// * * * 
+// * * 
+// *
+
 /*  rows[i]   colns[j]
  *      1       4
  *      2       3
