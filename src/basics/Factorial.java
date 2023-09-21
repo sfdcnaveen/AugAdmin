@@ -13,5 +13,6 @@ public class Factorial {
             fact = fact*i;
         }
         System.out.println("Factorital value of given number: "+fact);
+        sc.close();
     }
 }

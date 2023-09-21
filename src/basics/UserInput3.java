@@ -11,6 +11,6 @@ public class UserInput3 {
         String lname = sc.nextLine();
 
         System.out.println("Full Name:"+fname+" "+lname);
-
+        sc.close();
     }
 }
